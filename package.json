@@ -1,0 +1,26 @@
+{
+  "name": "uni_cloud_router",
+  "version": "1.0.0",
+  "description": "自己封装的类 koa-router 的 unicloud 云函数 url 化路由工具方法，支持多种及模块化。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinchengnuo/uni_cloud_router.git"
+  },
+  "keywords": [
+    "unicloud",
+    "nodejs",
+    "serverless",
+    "router",
+    "koa-router"
+  ],
+  "author": "yinchengnuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinchengnuo/uni_cloud_router/issues"
+  },
+  "homepage": "https://github.com/yinchengnuo/uni_cloud_router#readme"
+}
